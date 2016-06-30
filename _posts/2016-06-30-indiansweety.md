@@ -1,7 +1,11 @@
 ---
-description: ''
-dateModified: '2016-06-30T20:41:19.599Z'
-datePublished: '2016-06-30T20:41:21.508Z'
+description: >-
+  Real Name: Hellen Birth Date:May 25, 1990 Age:26 Sex:Female Interested In: Men
+  Location: Your nightmares haha Language(s): English Body Type: fitness model
+  Smoke / Drink: smoke ocassionaly / drink ocassionaly Body Decorations: Tattoos
+  and piercings
+dateModified: '2016-06-30T20:55:04.245Z'
+datePublished: '2016-06-30T20:55:11.531Z'
 title: Indiansweety
 author: []
 isBasedOnUrl: >-
@@ -14,8 +18,20 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9f70d3b-bdcb-44d8-a194-022277ebf6c2.jpg)
-
 # Indiansweety
+![Indiansweety is a Cam Model on Chaturbate.plus](https://the-grid-user-content.s3-us-west-2.amazonaws.com/147bebe6-58f6-46d3-a305-0bc647286b16.jpg)
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/840028c1a3654bdd592af4f7fd744c665bce4421.jpg" /><h1>Indiansweety</h1><p>Cam Model on </p></article>
+## Indiansweety's Bio
+
+Real Name: Hellen  
+Birth Date:May 25, 1990  
+Age:26  
+Sex:Female  
+Interested In: Men  
+Location: Your nightmares haha  
+Language(s): English  
+Body Type: fitness model  
+Smoke / Drink: smoke ocassionaly / drink ocassionaly  
+Body Decorations: Tattoos and piercings
+
+Cam.preview when online: https://cdn-s.highwebmedia.com/uHK3McUtGCG3SMFcd4ZJsRv8/roomimage/indiansweety.jpg
