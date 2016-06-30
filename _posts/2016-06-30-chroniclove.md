@@ -1,13 +1,13 @@
 ---
 description: Chroniclove's Bio
-dateModified: '2016-06-30T22:34:29.242Z'
-datePublished: '2016-06-30T22:34:36.799Z'
+dateModified: '2016-06-30T22:46:36.192Z'
+datePublished: '2016-06-30T22:46:40.998Z'
 title: Chroniclove
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/72fa6912-fa8d-4c0a-8f47-44eb06d954de.jpg
-starred: false
 sourcePath: _posts/2016-06-30-chroniclove.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
