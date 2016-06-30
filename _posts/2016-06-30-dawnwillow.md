@@ -1,13 +1,13 @@
 ---
 description: Dawnwillow's Bio
-dateModified: '2016-06-30T22:17:06.518Z'
-datePublished: '2016-06-30T22:17:09.786Z'
+dateModified: '2016-06-30T22:17:42.165Z'
+datePublished: '2016-06-30T22:17:42.707Z'
 title: Dawnwillow
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/02dc6f45-8816-47dd-9119-db24e58c2473.jpg
 sourcePath: _posts/2016-06-30-dawnwillow.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
