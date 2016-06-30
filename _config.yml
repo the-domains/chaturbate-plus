@@ -6,9 +6,9 @@ color:
   saturation: 0.23171554179862142
   rhythmicContrast: 0.8415345966350287
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: Chaturbate Plus
