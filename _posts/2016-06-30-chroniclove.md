@@ -1,7 +1,7 @@
 ---
 description: Chroniclove's Bio
-dateModified: '2016-06-30T22:46:36.192Z'
-datePublished: '2016-06-30T22:46:40.998Z'
+dateModified: '2016-07-01T05:57:29.656Z'
+datePublished: '2016-07-01T05:57:32.856Z'
 title: Chroniclove
 author: []
 isBasedOnUrl: >-
