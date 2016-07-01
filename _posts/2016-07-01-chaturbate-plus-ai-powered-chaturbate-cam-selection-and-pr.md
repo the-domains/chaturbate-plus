@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-01T04:47:28.730Z'
+datePublished: '2016-07-01T04:47:34.677Z'
 author: []
-dateModified: '2016-07-01T04:47:27.319Z'
+dateModified: '2016-07-01T04:47:34.154Z'
 title: Chaturbate Plus - AI powered Chaturbate Cam Selection and Presentation
 description: ''
-starred: false
 sourcePath: >-
   _posts/2016-07-01-chaturbate-plus-ai-powered-chaturbate-cam-selection-and-pr.md
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
